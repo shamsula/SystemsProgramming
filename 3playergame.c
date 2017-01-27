@@ -1,4 +1,4 @@
-// Mohammed Shamsul Arefeen, 104707638
+// Mohammed Shamsul Arefeen
 
 #include <stdio.h>
 #include <string.h>
@@ -79,7 +79,8 @@ if(num>=maxPoints) {printf("Referee: TATA has won! \n");unlink("text.txt"); retu
 }
 }
 
-void child(char *s,int max, int fd){
+void child(char *s,int max, int fd){
+
 int points=0; char tmp[99];
 int dice;
 long int ss=0;
