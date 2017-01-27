@@ -1,4 +1,4 @@
-// Mohammed Shamsul Arefeen, 104707638
+// Mohammed Shamsul Arefeen
 
 #include <stdio.h>
 #include <string.h>
